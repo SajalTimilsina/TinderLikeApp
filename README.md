@@ -1,0 +1,1 @@
+In this IOS project i have implement tinder like features like swipe left and right.
